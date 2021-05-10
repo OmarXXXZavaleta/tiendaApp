@@ -6,12 +6,12 @@ Este es un proyecto donde se pone en practica los conocimientos adquiridos de al
 ## Construido con 🛠️
 
 * [PHP] - Lenguaje de programacion usado
-* [MySQL]
+* [MySQL] - Manejador de base de datos usado
 * [CSS] - Usado para front-end
 * [Bootstrap] - Usado para front-end
 
 ## Observaciones
 
-* - En este repositorio solo se encuentra el codigo del proyecto. La pagina con sus respectivas funcionalidades estan alojados en webhost000
-* - No hay ninguna conexion de este repositorio con webhost000
-* - No se necesita un correo o contraseña para poder ingresar para realizar altas, bajas y cambios de los productos
+* En este repositorio solo se encuentra el codigo del proyecto. La pagina con sus respectivas funcionalidades estan alojados en webhost000
+* No hay ninguna conexion de este repositorio con webhost000
+* No se necesita un correo o contraseña para poder ingresar para realizar altas, bajas y cambios de los productos
